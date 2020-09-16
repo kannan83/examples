@@ -20,3 +20,7 @@
 
 # For multipart example
 upload.png
+
+# ignore local db files 
+*.db
+
